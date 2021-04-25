@@ -1,0 +1,8 @@
+# vscode
+*.vscode/
+
+# oj
+*test/
+
+# cpp
+*.out
